@@ -6,7 +6,7 @@ A tech blog where anything and everything tech related can be offered. Share you
     
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Contributing](#Deployed)
+3. [Deployed](#deployed)
 4. [Test](#test)
 5. [Questions](#questions)
 6. [License](#license)
