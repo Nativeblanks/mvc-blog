@@ -6,7 +6,7 @@ A tech blog where anything and everything tech related can be offered. Share you
     
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Contributing](#contributing)
+3. [Contributing](#Deployed)
 4. [Test](#test)
 5. [Questions](#questions)
 6. [License](#license)
@@ -15,8 +15,9 @@ A tech blog where anything and everything tech related can be offered. Share you
 Check out the website (link) no installation just sign up for a free account.
 # Usage
 Check out the website
-# Contributing
-NA
+# Deployed
+![image](https://user-images.githubusercontent.com/86581872/140675054-22ff5d5e-2a96-4ae3-9eff-54014be3a641.png)
+
 # Test
 using the code you can perform tests using jest
 # Questions
